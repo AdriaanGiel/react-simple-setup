@@ -10,5 +10,6 @@ If you use a different file structure, don't forget to change paths in the
 webpack.mix.js file. 
 
 Use npm run dev  to compile code
+
 Use npm run watch to keep track of file changes
 
