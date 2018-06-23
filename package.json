@@ -15,7 +15,9 @@
   "devDependencies": {
     "babel-preset-react": "^6.24.1",
     "cross-env": "^5.2.0",
-    "laravel-mix": "^2.1.11"
+    "laravel-mix": "^2.1.11",
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1"
   },
   "dependencies": {
     "express": "^4.16.3"
